@@ -1,1 +1,1 @@
-# InformationSecurityGillian-Kenny
+# InformationSecurity-Kenny
